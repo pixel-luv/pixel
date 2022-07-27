@@ -8,9 +8,9 @@ Config files for my GitHub profile.
 
 ### [디스코드(링크)](https://discord.gg/eyKuPhWJmz)
 
-### [카카오톡 - 공지방(링크)](https://open.kakao.com/o/guEyKnae)
+### [카카오톡 - 공지방(링크)](https://open.kakao.com/o/g9IZKnae)
 
-### [카카오톡 - 대화방(링크)](https://open.kakao.com/o/guEyKnae)
+### [카카오톡 - 대화방(링크)]https://open.kakao.com/o/guEyKnae
 
 ```sh
 공지방 참여코드 : 220411
